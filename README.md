@@ -44,8 +44,8 @@ Sanitization complete:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Observe the World Map SIEM:  <br/>
+<img src="https://imgur.com/a/kvcWmlb" height="80%" width="80%" alt="Cyber Attack Event Management"/>
 </p>
 
 <!--
